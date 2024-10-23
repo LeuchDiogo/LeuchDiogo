@@ -7,7 +7,7 @@
 ## Hello Word!! :wave:
 
 
-Olá me chamo Diogo Leuch tenho 15 anos e estudo programação há 1 ano, estou cursando o Ensino Médio no curso profissionalizante, Desenvolvimento de Sistemas, onde tive a oportunidade de aprender sobre Desenvolvimento-web Front-end  e sobre lógica de programação.
+Olá me chamo Diogo Leuch tenho 16 anos, estudo programação há 2 anos, estou cursando o Ensino Médio no curso profissionalizante, Desenvolvimento de Sistemas, onde tive a oportunidade de aprender sobre Desenvolvimento-web Front-end e sobre lógica de programação.
 
 No momento estou estudando sobre a linguagem C-sharp!! 
 
