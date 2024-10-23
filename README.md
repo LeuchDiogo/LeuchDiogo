@@ -1,8 +1,11 @@
 # Diogo Leuch
 
-<a herf="https://www.instagram.com/diogoleuch/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit" /></a>
-<a herf="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQsbrFnCQvrxsTGlrzLZVKHjQpjGmwhzCGqvccvZgTCDRCpqzBJjBbcFvpJGjKsDGMbB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a herf="https://www.linkedin.com/in/diogo-leuch-leuch-8111412b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a herf="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqbQsbrFnCQvrxsTGlrzLZVKHjQpjGmwhzCGqvccvZgTCDRCpqzBJjBbcFvpJGjKsDGMbB">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a herf="https://www.linkedin.com/in/diogo-leuch-leuch-8111412b0/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ## Hello Word!! :wave:
 
@@ -13,7 +16,9 @@ No momento estou estudando sobre a linguagem C-sharp!!
 
 ##  :computer: Linguagens de programação e tecnologias 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" higth="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" higth="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" higth="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" higth="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" higth="60"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" higth="60"/>
           
 <div>
 <a href="https://github.com/LeuchDiogo">
